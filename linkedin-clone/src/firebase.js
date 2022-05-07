@@ -5,7 +5,7 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 const firebaseConfig = {
-    apiKey: "AIzaSyBV86SBRKPxBiX3jQ2RZFzNc9-3FJ4pWtQ",
+    apiKey: "changed",
     authDomain: "linkedin-clone-84f70.firebaseapp.com",
     projectId: "linkedin-clone-84f70",
     storageBucket: "linkedin-clone-84f70.appspot.com",
